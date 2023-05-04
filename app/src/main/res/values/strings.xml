@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SeventhPractice</string>
+    <string name="choose_pizza">Choose pizza</string>
+    <string name="order_info">Order info</string>
+    <string name="pick_date">Pick date</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="send_order">Send order</string>
+    <string name="date_info">Date: %s</string>
+    <string name="pizza_info">Pizza: %s</string>
+    <string name="quantity_info">Quantity: %d</string>
+    <string name="no_order">You have no order</string>
+    <string name="no_date">You haven\'t chosen the date</string>
+    <string name="confirm">Confirm</string>
+    <string name="cheese">Cheese</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="olive">Olive</string>
+    <string name="no_pizza">You haven\'t chosen any pizza</string>
+    <string name="open_calendar">Open calendar</string>
+    <string name="select_date">Select date</string>
+</resources>
